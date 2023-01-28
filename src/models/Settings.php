@@ -10,4 +10,6 @@ use craft\base\Model;
  */
 class Settings extends Model
 {
+    // email all "admin" users setting - boolean
+    // additional emails to send to - string
 }
